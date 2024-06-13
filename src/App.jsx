@@ -23,3 +23,4 @@ function App() {
 }
 
 export default App;
+// npx json-server --watch db.json --port 8080   //this code run multi-Time when a react app run              
